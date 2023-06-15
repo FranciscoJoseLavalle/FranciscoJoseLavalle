@@ -1,9 +1,13 @@
-### Hi there 👋
+<div>
+  <h1>Hola 👋🏻, soy Francisco Lavalle</h1>
+  <h3>Soy un desarrollador web fullstack, apasionado por lo que hago, mejoro día a día realizando proyectos o aprendiendo habilidades nuevas.</h3>
+</div>
 
-<!--
-**FranciscoJoseLavalle/FranciscoJoseLavalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+  <a href="https://linkedin.com/in/franciscolavalle" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="20"> LinkedIn</a>  
+</div>
+<hr>
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
