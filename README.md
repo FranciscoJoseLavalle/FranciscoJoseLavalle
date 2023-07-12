@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/franciscolavalle" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="20"> LinkedIn</a>  
 </div>
 <hr>
+[ ! [franciscojoselavalle's github stats] (https://github-readme-stats.vercel.app/api?username=franciscojoselavalle) ] (https://github.com/anuraghazra/github-readme-stats)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
