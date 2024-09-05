@@ -14,7 +14,7 @@
 <div>
   <h2>Enlaces externos</h2>
   <ul>
-    <li><a href="https://franciscolavalle.netlify.app/" target="_blank">👾 Portfolio</a></li>
+    <li><a href="https://franciscolavalle.com.ar/" target="_blank">👾 Portfolio</a></li>
     <li><a href="https://linkedin.com/in/franciscolavalle" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="20"> LinkedIn</a></li>
   </ul>
 </div>
